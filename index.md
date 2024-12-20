@@ -5,7 +5,7 @@ title: XT5 Feedback Home
 
 ![XT5 Feedback Hero Banner](assets/images/hero-image.jpg)
 
-# X-T5 Firmware Feedback
+# Fujifilm Firmware Feedback
 
 This page was created by the pal2tech channel so you can share your thoughts about the latest autofocus firmware released on Dec 19, 2024. 
 
