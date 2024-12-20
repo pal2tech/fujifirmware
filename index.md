@@ -1,8 +1,3 @@
----
-layout: default
-title: "XT5 Feedback for pal2tech"
----
-
 ![XT5 Feedback Hero Banner](assets/images/hero-image.jpg)
 
 # Welcome to the pal2tech XT5 Feedback Page
