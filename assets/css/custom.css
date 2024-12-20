@@ -1,4 +1,4 @@
 header {display:none !important}
-body {background:#1C1D21;}
-h1 {color:#DCBD39 !important;font-weight:bold;}
-p {color:fff;}
+body {background:#1C1D21;color:#fff;}
+.main-content h1 {color:#DCBD39 !important;font-weight:bold;}
+.main-content p {color:#fff;}
