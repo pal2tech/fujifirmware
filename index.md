@@ -7,7 +7,7 @@ title: XT5 Feedback Home
 
 # X-T5 Firmware Feedback
 
-This page was created by the pal2tech channel. You can share your thoughts about the latest X-T5 4.10 firmware released on Dec 19, 2024. 
+This page was created by the pal2tech channel so you can share your thoughts about the latest autofocus firmware released on Dec 19, 2024. 
 
 No need to spend too much time on this. If you shoot with different kinds of setups, and the AF was better with one but still bad in others, just provide your overall impression. If you used different lenses, etc. and want to share more info, the 3rd question will allow you to do that.
 
