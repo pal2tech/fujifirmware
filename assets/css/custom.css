@@ -1,4 +1,4 @@
-header {display:none !important}
+header, footer span {display:none !important}
 body {background:#1C1D21;color:#fff;}
 .main-content {max-width: 70rem;}
 .main-content h1, .main-content h2, .main-content h3 {color:#DCBD39 !important;font-weight:bold;}
