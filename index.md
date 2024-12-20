@@ -15,16 +15,11 @@ Please take a moment to fill out the form below. Your honest input will help me 
 
 ## Feedback Form
 
-<iframe src="https://docs.google.com/forms/d/e/YOUR-GOOGLE-FORM-ID/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-*(Note: Replace `YOUR-GOOGLE-FORM-ID` with the actual embed URL from Google Forms.)*
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSVpBFjMKk0cAvZYjY1qp9QLceGb5eeUEfRVpR4NpUWKtZDA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 
 ### What Happens Next?
 
-- I review the feedback regularly to see what topics you’re most interested in.
-- Future videos, lessons, and tutorials on the channel will reflect the interests and needs you share here.
-- Consider subscribing to the [pal2tech YouTube Channel](https://www.youtube.com/c/pal2tech) if you haven’t already, so you don’t miss any new content inspired by this feedback.
-
-Thank you for taking the time to help shape the future of pal2tech’s content!
+- Thank you for taking the time to provide your impressions of this new firmware update.
+- If we receive enough submissions, I'll share the results in a future video.
