@@ -5,16 +5,16 @@ title: XT5 Feedback Home
 
 ![XT5 Feedback Hero Banner](assets/images/hero-image.jpg)
 
-# Welcome to the pal2tech XT5 Feedback Page
+# X-T5 Firmware Feedback
 
-This page is dedicated to collecting your thoughts, suggestions, and insights about the Fujifilm XT5 and related camera settings, gear, and workflows. Whether you’re a longtime Fujifilm shooter or just getting started, your feedback helps shape the content and tutorials I create for the pal2tech channel.
+This page was created by the pal2tech channel. You can share your thoughts about the latest X-T5 4.10 firmware released on Dec 19, 2024. 
 
-Please take a moment to fill out the form below. Your honest input will help me deliver more targeted tips, gear reviews, and educational resources that meet your needs.
+No need to spend too much time on this. If you shoot with different kinds of setups, and the AF was better with one but still bad in others, just provide your overall impression. If you used different lenses, etc. and want to share more info, the 3rd question will allow you to do that.
 
 ---
 
 ## Feedback Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSVpBFjMKk0cAvZYjY1qp9QLceGb5eeUEfRVpR4NpUWKtZDA/viewform?embedded=true" width="640" height="1172" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSVpBFjMKk0cAvZYjY1qp9QLceGb5eeUEfRVpR4NpUWKtZDA/viewform?embedded=true" width="928" height="1172" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ---
