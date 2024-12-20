@@ -11,6 +11,8 @@ This page was created by the pal2tech channel so you can share your thoughts abo
 
 No need to spend too much time on this. If you shoot with different kinds of setups, and the AF was better with one but still bad in others, just provide your overall impression. If you used different lenses, etc. and want to share more info, the 3rd question will allow you to do that.
 
+NOTE: fujifirmware.com is not endorsed by nor nor does it represent Fujifilm Corporation and/or it's employees in any way. It's simply a free one-page website to be temporarily used to collect feedback from the audience of the pal2tech channel. No firmware files of any kind are hosted on this website.
+
 ---
 
 ## Feedback Form
